@@ -1,0 +1,14 @@
+{
+  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "VSIXWPFAppWithDocFxLoggingAndZip.71165e23-89de-466e-8e29-f204763578ab",
+      "name": "VSIXWPFAppWithDocFxLoggingAndZip"
+    },
+    {
+      "vsixId": "WPFAppWithDocFxLoggingZipAndTest.93b6342c-0c8f-4c50-87e6-f0f96cad23b1",
+      "name": "WPFAppWithDocFxLoggingZipAndTest"
+    }
+  ]
+}
