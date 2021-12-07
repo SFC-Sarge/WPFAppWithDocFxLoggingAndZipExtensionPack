@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="WPFAppWithDocFxLoggingAndZipExtensionPack.4b02a87f-cb7d-4442-923b-4ffebb0d6401" Version="16.0" Language="en-US" Publisher="Danny McNaught" />
+        <Identity Id="WPFAppWithDocFxLoggingAndZipExtensionPack.4b02a87f-cb7d-4442-923b-4ffebb0d6401" Version="17.0" Language="en-US" Publisher="Danny McNaught" />
         <DisplayName>WPFAppWithDocFxLoggingAndZipExtensionPack</DisplayName>
-        <Description xml:space="preserve">WPF Application with DocFx, Logging, Zip, and Test Support Extension Pack</Description>
+        <Description xml:space="preserve">WPF Application with DocFx, Logging, Zip, and Test Support Extension Pack
+Updated Project Capabilities to include 'Microsoft.Extensions.Logging, DocFx.Console, and System.IO.Compression in both of the WPF Application projects installed by this extension pack.</Description>
         <MoreInfo>https://github.com/SFC-Sarge/VSIXWPFAppWithDocFxLoggingAndZip</MoreInfo>
         <License>LICENSE</License>
         <GettingStartedGuide>WPF Custom Templates with Unit Testing User Guide.rtf</GettingStartedGuide>
